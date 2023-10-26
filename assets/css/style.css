@@ -1,0 +1,107 @@
+
+body{
+   
+    width: 100vw;
+    margin: 0;
+    
+   background:url(/assets/img/sfondo.png) center center ;
+  
+    
+}
+
+header{
+
+    background: linear-gradient(0deg, #0e4d8b 2%, #0f97db 96%);
+    width: 400px;
+    height: 400px;
+    margin-top: 26px;
+    margin-left: 22px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+   
+      
+   
+}
+
+article h1{
+  text-transform: uppercase;
+  
+}
+
+
+
+.img{
+    text-align: center;
+    margin: top 36px; 
+
+    
+}
+.img img{
+  margin-top: 25px;
+}
+.blog{
+    margin-top: 20px;
+    text-transform: uppercase;
+    
+}
+.blog h2{
+  color: white;
+  text-align: center;
+}
+.menu{
+  text-align: center;
+  list-style-type: none;
+  padding-left: 0;
+  color: white;
+
+}
+
+main{
+    background-color: white;
+}
+
+table.paleBlueRows {
+    font-family: "Times New Roman", Times, serif;
+    border: 1px solid #FFFFFF;
+    width: 350px;
+    height: 200px;
+    text-align: center;
+    border-collapse: collapse;
+  }
+  table.paleBlueRows td, table.paleBlueRows th {
+    border: 1px solid #FFFFFF;
+    padding: 3px 2px;
+  }
+  table.paleBlueRows tbody td {
+    font-size: 13px;
+  }
+  table.paleBlueRows tr:nth-child(even) {
+    background: #EAEAEA;
+  }
+  table.paleBlueRows thead {
+    background: #0B6FA4;
+    border-bottom: 4px solid #FFFFFF;
+  }
+  table.paleBlueRows thead th {
+    font-size: 17px;
+    font-weight: bold;
+    color: #FFFFFF;
+    text-align: center;
+    border-left: 1px solid #FFFFFF;
+  }
+  table.paleBlueRows thead th:first-child {
+    border-left: none;
+  }
+  
+  table.paleBlueRows tfoot td {
+    font-size: 14px;
+  }
+
+  hr{
+   color: rgba(0, 0, 255, 0.866);
+  }
+  .video{
+
+   
+  }
